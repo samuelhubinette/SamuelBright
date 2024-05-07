@@ -1,0 +1,36 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+ p{
+    color: black;
+ }
+ 
+#page{
+    background-color: #F2C7D1 !important;
+}
+
+#navbar-main {
+    background-color: #F2C7D1 !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #C8B4E1 !important;
+}
+
+#page, #main-wrapper, .region-primary-menu .menu-item a.is-active, .region-primary-menu .menu-item--active-trail a {
+    background: #FFE0E7 !important;
+}
+
+#navbar-top {
+    background-color: #FFE0E7 !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+a{
+    color: black !important;
+}
